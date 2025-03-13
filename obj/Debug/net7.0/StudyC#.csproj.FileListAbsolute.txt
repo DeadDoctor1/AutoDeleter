@@ -18,7 +18,6 @@ Z:\Program\Code\StudyC_Sharp\bin\Debug\net7.0\StudyC#.deps.json
 Z:\Program\Code\StudyC_Sharp\bin\Debug\net7.0\StudyC#.runtimeconfig.json
 Z:\Program\Code\StudyC_Sharp\bin\Debug\net7.0\StudyC#.dll
 Z:\Program\Code\StudyC_Sharp\bin\Debug\net7.0\StudyC#.pdb
-Z:\Program\Code\StudyC_Sharp\obj\Debug\net7.0\StudyC#.csproj.AssemblyReference.cache
 Z:\Program\Code\StudyC_Sharp\obj\Debug\net7.0\StudyC#.GeneratedMSBuildEditorConfig.editorconfig
 Z:\Program\Code\StudyC_Sharp\obj\Debug\net7.0\StudyC#.AssemblyInfoInputs.cache
 Z:\Program\Code\StudyC_Sharp\obj\Debug\net7.0\StudyC#.AssemblyInfo.cs

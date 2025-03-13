@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OwoV6EG9/5f/Vdb6j0MiJcteI6lDPrVl3gTpxJboBZj8c7q0JA561RuABYDJXHCokV180ZtZ1DWSjBr6ynBQ+Q==",
+  "dgSpecHash": "PN0Ee+wPrGRiOIT2dzDNy2CwtRdAxmFUNPXZ3Z4yTfrIme4SkXAzHGZ0jJ4GVmep+LCmtyKeflRU0PkzBrSryw==",
   "success": true,
   "projectFilePath": "Z:\\Program\\Code\\StudyC_Sharp\\StudyC#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DeadDoctor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\DeadDoctor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\DeadDoctor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\DeadDoctor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
